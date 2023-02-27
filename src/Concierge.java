@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Concierge {
+public class Concierge extends Employee{
+
 }
